@@ -1,0 +1,13 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    display: inline-block;
+    margin: 5em;
+    background-color: #ccc;
+    color: red;
+}
